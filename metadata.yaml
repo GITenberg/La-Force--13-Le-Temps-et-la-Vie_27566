@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Adam
     - http://en.wikipedia.org/wiki/Paul_Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27566#La-Force--13-Le-Temps-et-la-Vie
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-12-19'
 gutenberg_type: Text
